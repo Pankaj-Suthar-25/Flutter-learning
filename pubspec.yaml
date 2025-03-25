@@ -64,6 +64,7 @@ dependencies:
   flutter_mobx: ^2.3.0
   redux: ^5.0.0
   flutter_redux: ^0.10.0
+  firebase_database: ^11.3.4
   # devtools
   # flutter_advance_network
   # flutter_test

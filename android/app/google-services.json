@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "969264337642",
+    "firebase_url": "https://flutter-learning-843c9-default-rtdb.firebaseio.com",
+    "project_id": "flutter-learning-843c9",
+    "storage_bucket": "flutter-learning-843c9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969264337642:android:1d8d4022faba2e224bfd93",
+        "android_client_info": {
+          "package_name": "com.example.flutter_learn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABeR-25eZsT71TtN8BX7GJb0yLYgQ-kmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
